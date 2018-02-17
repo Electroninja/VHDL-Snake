@@ -1,0 +1,31 @@
+NET "B[1]" LOC = J13;
+NET "B[0]" LOC = H13;
+NET "G[2]" LOC = G14;
+NET "G[1]" LOC = G13;
+NET "G[0]" LOC = F14;
+NET "R[2]" LOC = F13;
+NET "R[1]" LOC = D13;
+NET "R[0]" LOC = C14;
+NET "Clear" LOC = P11;
+NET "CLK" LOC = B8;
+NET "downb" LOC = C11;
+NET "Hsync" LOC = J14;
+NET "leftb" LOC = A7;
+NET "rightb" LOC = G12;
+NET "upb" LOC = M4;
+NET "Vsync" LOC = K13;
+NET "ActiveSeg[3]" LOC = K14;
+NET "ActiveSeg[2]" LOC = M13;
+NET "ActiveSeg[1]" LOC = J12;
+NET "ActiveSeg[0]" LOC = F12;
+NET "Number[6]" LOC = L14;
+NET "Number[5]" LOC = H12;
+NET "Number[4]" LOC = N14;
+NET "Number[3]" LOC = N11;
+NET "Number[2]" LOC = P12;
+NET "Number[1]" LOC = L13;
+NET "Number[0]" LOC = M12;
+
+# PlanAhead Generated physical constraints 
+
+NET "GO" LOC = M5;
